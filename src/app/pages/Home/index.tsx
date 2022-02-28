@@ -54,7 +54,7 @@ function Home() {
         weatherData={weatherData?.current}
         googleMapURL="//maps.googleapis.com/maps/api/js?v=3.exp&key=AIzaSyCj5zfRjN8ono7-eyPrv6E8YSXVDfR57tc"
         loadingElement={<div style={{ height: `100%` }} />}
-        containerElement={<div style={{ height: `400px` }} />}
+        containerElement={<div style={{ height: `100%` }} />}
         mapElement={<div style={{ height: `100%` }} />}
       />
     </div>
